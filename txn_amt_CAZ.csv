@@ -1,0 +1,109 @@
+yr,quarter,area_name,spend_type,txn_amt,txn_index_yoy
+2018,1,City and the East,apparel,5932.335778,
+2018,1,City and the East,eating,100845.8656,
+2018,1,City and the East,retail,120501.7074,
+2018,2,City and the East,apparel,7132.505604,
+2018,2,City and the East,eating,112933.4729,
+2018,2,City and the East,retail,135478.4124,
+2018,3,City and the East,apparel,6871.014457,
+2018,3,City and the East,eating,119087.0068,
+2018,3,City and the East,retail,140666.9162,
+2018,4,City and the East,apparel,7404.841087,
+2018,4,City and the East,eating,136333.285,
+2018,4,City and the East,retail,156997.6307,
+2018,1,Riparian South,apparel,285.6511111,
+2018,1,Riparian South,eating,32479.38467,
+2018,1,Riparian South,retail,39101.83144,
+2018,2,Riparian South,apparel,446.7584615,
+2018,2,Riparian South,eating,38833.3589,
+2018,2,Riparian South,retail,46937.24242,
+2018,3,Riparian South,apparel,424.3295652,
+2018,3,Riparian South,eating,40739.8737,
+2018,3,Riparian South,retail,50432.15793,
+2018,4,Riparian South,apparel,528.4782609,
+2018,4,Riparian South,eating,44073.37435,
+2018,4,Riparian South,retail,53072.4738,
+2018,1,West End,apparel,80559.92222,
+2018,1,West End,eating,260099.0197,
+2018,1,West End,retail,463955.3438,
+2018,2,West End,apparel,91687.57769,
+2018,2,West End,eating,279909.8826,
+2018,2,West End,retail,513396.2718,
+2018,3,West End,apparel,95419.70174,
+2018,3,West End,eating,297544.0384,
+2018,3,West End,retail,559514.0015,
+2018,4,West End,apparel,113039.1748,
+2018,4,West End,eating,358049.6195,
+2018,4,West End,retail,615423.2864,
+2019,1,City and the East,apparel,6822.781111,1.150100292
+2019,1,City and the East,eating,134125.7722,1.330007646
+2019,1,City and the East,retail,150331.4034,1.247545837
+2019,2,City and the East,apparel,8335.001978,1.168593821
+2019,2,City and the East,eating,143996.7437,1.275058139
+2019,2,City and the East,retail,162764.103,1.201402497
+2019,3,City and the East,apparel,8276.811087,1.204598119
+2019,3,City and the East,eating,151122.629,1.269010222
+2019,3,City and the East,retail,168274.6834,1.1962634
+2019,4,City and the East,apparel,10178.08913,1.374518239
+2019,4,City and the East,eating,158563.8396,1.16306036
+2019,4,City and the East,retail,174984.64,1.114568668
+2019,1,Riparian South,apparel,424.6546667,1.486620042
+2019,1,Riparian South,eating,43860.56456,1.350412423
+2019,1,Riparian South,retail,50802.674,1.299240269
+2019,2,Riparian South,apparel,531.7958242,1.190343038
+2019,2,Riparian South,eating,50158.06769,1.29162321
+2019,2,Riparian South,retail,59909.77505,1.276380374
+2019,3,Riparian South,apparel,521.231413,1.228364592
+2019,3,Riparian South,eating,56098.3288,1.376988285
+2019,3,Riparian South,retail,64909.67717,1.2870692
+2019,4,Riparian South,apparel,633.4294565,1.19859132
+2019,4,Riparian South,eating,56015.09902,1.270950996
+2019,4,Riparian South,retail,63959.64391,1.205137792
+2019,1,West End,apparel,90655.57933,1.125318605
+2019,1,West End,eating,334529.313,1.286161376
+2019,1,West End,retail,543654.9211,1.171782863
+2019,2,West End,apparel,104729.0526,1.142238188
+2019,2,West End,eating,352490.7433,1.259300815
+2019,2,West End,retail,595303.6355,1.159540239
+2019,3,West End,apparel,112982.6541,1.184060022
+2019,3,West End,eating,370676.2854,1.245786296
+2019,3,West End,retail,648127.9488,1.158376639
+2019,4,West End,apparel,122974.4873,1.087892649
+2019,4,West End,eating,400263.5311,1.117899613
+2019,4,West End,retail,665545.7633,1.081443907
+2020,1,City and the East,apparel,7571.752857,1.109775139
+2020,1,City and the East,eating,125722.2118,0.937345669
+2020,1,City and the East,retail,138047.4977,0.918287826
+2020,2,City and the East,apparel,307.4934066,0.036891822
+2020,2,City and the East,eating,2308.467582,0.016031387
+2020,2,City and the East,retail,16011.51231,0.098372504
+2020,3,City and the East,apparel,2992.55663,0.361559132
+2020,3,City and the East,eating,37928.80239,0.250980298
+2020,3,City and the East,retail,51138.92293,0.303901466
+2020,4,City and the East,apparel,2999.942283,0.294745138
+2020,4,City and the East,eating,33567.94772,0.211699892
+2020,4,City and the East,retail,57014.32957,0.325824767
+2020,1,Riparian South,apparel,456.0026374,1.073819913
+2020,1,Riparian South,eating,41808.98659,0.953224999
+2020,1,Riparian South,retail,47940.65209,0.943663951
+2020,2,Riparian South,apparel,18.42582418,0.034648305
+2020,2,Riparian South,eating,1604.532418,0.031989518
+2020,2,Riparian South,retail,6349.005385,0.105976118
+2020,3,Riparian South,apparel,120.1209783,0.230456138
+2020,3,Riparian South,eating,21951.10446,0.391296941
+2020,3,Riparian South,retail,22752.77076,0.350529717
+2020,4,Riparian South,apparel,84.1173913,0.132796779
+2020,4,Riparian South,eating,18102.24402,0.323167223
+2020,4,Riparian South,retail,20089.71283,0.314099823
+2020,1,West End,apparel,75404.83846,0.831772727
+2020,1,West End,eating,298366.7963,0.891900305
+2020,1,West End,retail,472739.343,0.869557737
+2020,2,West End,apparel,3445.79989,0.032902044
+2020,2,West End,eating,5701.33956,0.016174438
+2020,2,West End,retail,31601.21593,0.053084198
+2020,3,West End,apparel,34117.35402,0.30196984
+2020,3,West End,eating,109204.4979,0.294608806
+2020,3,West End,retail,190089.5404,0.293290146
+2020,4,West End,apparel,37254.73761,0.302946883
+2020,4,West End,eating,103342.217,0.258185443
+2020,4,West End,retail,193746.4525,0.291109137
